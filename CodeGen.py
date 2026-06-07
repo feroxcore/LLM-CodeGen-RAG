@@ -48,7 +48,7 @@ VAR_INPUT (** here define input variables **) END_VAR
 VAR_OUTPUT (** here define output variables **) END_VAR
 VAR (** here define internal temp variables **) END_VAR
 (** here write ST code of this function block**) 
-END_FUNCTION_BLOCK_
+END_FUNCTION_BLOCK
 """
 
 print("Prompt:\n", prompt)
